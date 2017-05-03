@@ -1,7 +1,7 @@
       ** Please forward to anyone who might be interested ** 
 --------------------------------------------------------------------
                       CALL FOR PAPERS
-International Social Network Analysis and Digital Humanities 
+International Workshop on Social Network Analysis and Digital Humanities 
               to be held in Graz, Austria
     co-located with Iknow 2017 (http://i-know.tugraz.at/)
   
@@ -77,7 +77,7 @@ and must contain novel contributions. Accepted papers will be published accordin
 
 Location:
 =========
-The workshop will take place at the Messe Congress Graz, Austria and will be held in conjunction with the International Social Network Analysis and Digital Humanities. 
+The workshop will take place at the Messe Congress Graz, Austria and will be held in conjunction with the International Workshop on Social Network Analysis and Digital Humanities. 
 Further information of this location can be found on the Iknow website: http://i-know.tugraz.at/.
 
 Contact:
