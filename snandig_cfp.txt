@@ -17,9 +17,9 @@ Important Dates:
 
 Workshop Organizers:
 ====================
-Christian Guetl (Graz Univeristy of Technology, Austria)
-Denis Helic (Graz Univeristy of Technology, Austria)
-Elisabeth Lex (Graz Univeristy of Technology, Austria)
+Christian Guetl (Graz University of Technology, Austria)
+Denis Helic (Graz University of Technology, Austria)
+Elisabeth Lex (Graz University of Technology, Austria)
 Christoph Trattner (MODUL University Vienna, Austria)
 
 Objectives & Topics:
