@@ -1,96 +1,69 @@
       ** Please forward to anyone who might be interested ** 
 --------------------------------------------------------------------
                       CALL FOR PAPERS
-International Workshop on Engendering Health with RecSys (HealthRecSys 2016)
-              to be held in Boston, USA
-    co-located with ACM RECSYS 2016 (https://recsys.acm.org/)
+International Social Network Analysis and Digital Humanities 
+              to be held in Graz, Austria
+    co-located with Iknow 2017 (http://i-know.tugraz.at/)
   
-      Website: http://xxx.com 
+      Website: https://snandig.github.io/
 --------------------------------------------------------------------
 
 Important Dates:
 ================
-** June, 24th, 2016 Paper submission deadline
-** July, 15th, 2016 Notification to authors
-** July, 29th, 2016, Camera-Ready Version
-** September, 15th-19th, 2016 Recsys conference
+** July 11th, 2017 - Paper submission deadline
+** August 11th, 2017 - Notification to authors
+** September 11th, 2017 - Camera-Ready Version
+** October 11th, 2017 - 09:00-17:30 - Workshop
 
 Workshop Organizers:
 ====================
-David Elsweiler (University of Regensburg, Germany)
-Bernd Ludwig (University of Regensburg, Germany)
-Alan Said (Recorded Future, Sweden)
-Hanna Schaefer (TU-Muenchen, Germany)
-Christoph Trattner (Know-Center, Austria)
-
-Program Committee:
-====================
-Francesco Ricci - University of Bolzano
-Morgan Harvey - Northumbria University
-Ge Mouzhi - University of Bolzano
-Georg Groh - TU Munich
-Jill Freyne - CSIRO
-Marko Tkalcic - University of Bolzano
-Shlomo Berkovsky - CSIRO
-Neal Lathia - University of Cambridge
-Cathal Gurrin - Dublin City University
-Mark Dunlop - University of Strathclyde
-Andreas Komninos - University of Strathclyde
-Aiden Doherty - University of Oxford
-Christoph Palm - OTH Regensburg
-Eelco Herder - L3S
-Robert West - Stanford
-Munmun De Choudhury - Georgia Tech
-Ingmar Weber - Qatar Computing Research Institute
-Kjetil Norvag - NTNU
+Christian Guetl (Graz Univeristy of Technology, Austria)
+Denis Helic (Graz Univeristy of Technology, Austria)
+Elisabeth Lex (Graz Univeristy of Technology, Austria)
+Christoph Trattner (MODUL University Vienna, Austria)
 
 Objectives & Topics:
 ====================
-Busy lifestyles, abundant options, lack of knowledge ... there are many reasons why 
-people make poor decisions relating to their health. Yet these poor decisions are leading 
-to epidemics, which represent some of the greatest challenges we face as a society today. 
-Noncommunicable Diseases (NCDs), which include cardiovascular diseases, cancer, chronic 
-respiratory diseases and diabetes, account for ∼60% of total deaths worldwide. 
-These diseases share the same four behavioural risk factors: tobacco use, unhealthy diet, 
-physical inactivity and harmful consumption of alcohol and can be prevented and sometimes 
-even reversed with simple lifestyle changes. Eating more healthily, exercising more appropriately, 
-sleeping and relaxing more, as well as simply being more aware of one’s state of health are all 
-things that would lead to improved health. Yet knowing exactly what to change and how, 
-implementing changes and maintaining changes over long time periods are all things people 
-find challenging. These are also problems, for which we believe recommender systems can provide 
-assistance by offering specific, tailored suggestions for behavioural change. 
-In recent years recommender systems for health has become a popular topic within the RecSys 
-community and a selection of empirical contributions and demo systems have been published. 
-Efforts to date, however have been sporadic and lack coordination. We lack shared infrastructure 
-such as datasets, appropriate cross-disciplinary knowledge, even agreed upon goals. 
-
-It is our aim to use this workshop as a vehicle to:
-
-** Establish the problem as a prominent RecSys topic
-** Create a community of researchers who will determine a concrete research agenda for health in RecSys
-** Attract scientists from other domains to RecSys: health (e.g. sports, nutrition, medicine), psychology, signal processing, wearables, HCI, etc.
-** Create new ideas for collaboration, particularly cross-domain collaborations
-** Establish shared infrastructure (datasets and tools)
+We invite original submissions addressing all aspects of social networks and digital humanities. 
+Social networks and social media allow numerous users to participate in production and consumption of 
+online information by establishing new links between people, information, and services. 
+Users participating in such online endeavours leave digital traces on the Web, which provides unparalleled 
+research opportunities for studying questions in sociology, psychology, behavioral science, 
+political and economic science, and many others. While studying human digital traces have 
+received attention from different communities, understanding human social behavior via unobtrusive methods 
+(i.e. methods where the researcher doesn’t intrude into the research context) remains a challenging endeavor 
+and an open problem. Tackling these challenges requires the development of new methods, instruments and techniques 
+as well as an interdisciplinary effort from researchers across disciplines such as computer science, humanities, social sciences and others. 
+This workshop seeks original submissions on either methods or practices at the crossroads of these various disciplines.
 
 We invite submissions that may include the following topics, but are not limited to:
 
-** Motivation - increasing motivation, understanding motivation, utilising psychological models, gamification
-** Algorithms for Health Recommendations
-** Interfaces - Explanations/Presentation, Feedback, Usability
-** Persuasive Design
-** Sensors - e.g. activity tracking, context detection, quantified self, motivation by self assessment
-** Mobile devices
-** Gamification - e.g. Making exercise or diet fun
-** Social Motivation - Inclusion of Social Context, Coactivity and Group Recommenders
-** Knowledge representation - Transfer of domain knowledge to digital systems
-** Ethics - Gap between recommendations and medical advice
-** Ease of use - embedding systems into everyday life Learning about health
-** User modelling, behavioural analytics and behavioural change
+** Studies of online communities and their behavior
+** Community of practice, online participation
+** Centrality and ranking in social networks
+** Graph partitioning and community discovery
+** Link prediction
+** Location-aware social networks and mobility
+** Expertise and trust in online social networks
+** New models and algorithms for social network analysis
+** Crowdsourcing and social media
+** Information diffusion in social networks
+** Social influence
+** Studies of human culture based on online social networks and encyclopedia, computational methods to assess human culture along different dimensions (such as language, food, music, literature etc.)
+** Using social media to study psychological and social phenomena, and corresponding methods to assess such phenomena via web-based investigations
+** Biases in social media, such as population biases, channel bias, self-selection bias, etc and computational methods for assessment and correction
+** The study of limitations of tools used in digital humanities, extension of traditional source criticism into the development of systematic "tool criticism"
+** Social and individual inequalities on the web, e.g. gender or race disparities, computational methods and instruments to assess and track inequalities
+** Studies of political processes and dynamics on the web, such as elections, political unrest, grassroots movements
+** Predictions with social media, e.g. stock markets, spread of language, culture, memes or diseases
+** Longitudinal studies of social phenomena and social change on the web
+** Computational methods to assess and improve social and/or individual well-being via the web
+** Studies investigating the role and causal impact of algorithms in facilitating social interactions on the web
 
 Submissions: 
 ============
 We solicit short research papers (up to 4 pages) & short postion papers (up to 2 pages), both in the ACM conference paper style. 
-Papers should be submitted in EasyChair to https://easychair.org/conferences/?conf=healthrecsys2016
+Papers should be submitted in EasyChair to https://easychair.org/conferences/?conf=snandig2017
 
 Submission guidelines: 
 ======================
@@ -100,21 +73,19 @@ All submitted papers must be written in English;
 * be in PDF (make sure that the PDF can be viewed on any platform), and formatted for US Letter size;
 
 All papers will be peer-reviewed, must not be under review in any other conference, workshop or journal (at the time of submission), 
-and must contain novel contributions. Accepted papers will be published according to the ACM RECSYS 2016 WS publication rules.
+and must contain novel contributions. Accepted papers will be published according to the Iknow2017 WS publication rules.
 
 Location:
 =========
-The workshop will take place at the Massachusetts Institute of Technology (MIT) or the IBM Research campuses in Boston, MA, USA (venue not fixed yet) 
-and will be held in conjunction with the 10th ACM Conference on Recommender Systems. 
-Further information of this location can be found on the ACM RecSys website: https://recsys.acm.org/.
+The workshop will take place at the Messe Congress Graz, Austria and will be held in conjunction with the International Social Network Analysis and Digital Humanities. 
+Further information of this location can be found on the Iknow website: http://i-know.tugraz.at/.
 
 Contact:
 ========
-David Elsweiler - david.elsweiler@ur.de
-Bernd Ludwig - bernd.ludwg@ur.de
-Alan Said - alan@alans.se
-Hanna Schaefer - hanna.schaefer@tum.de
-Christoph Trattner - trattner.christoph@gmail.com
+Christian Guetl - c.guetl(at)tugraz.at
+Denis Helic - dhelic(at)tugraz.at
+Elisabeth Lex - elisabeth.lex(at)tugraz.at
+Christoph Trattner - christoph.trattner(at)modul.ac.at
 
 
 
