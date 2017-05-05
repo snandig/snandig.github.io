@@ -3,7 +3,7 @@
                       CALL FOR PAPERS
 International Workshop on Social Network Analysis and Digital Humanities 
               to be held in Graz, Austria
-  co-located with Iknow 2017 (http://i-know.tugraz.at/)
+  co-located with i-Know 2017 (http://i-know.tugraz.at/)
   
            Website: https://snandig.github.io/
 --------------------------------------------------------------------
@@ -26,12 +26,12 @@ Christoph Trattner (MODUL University Vienna, Austria)
 
 Objectives & Topics:
 ====================
-We invite original submissions addressing all aspects of social networks analysis and digital humanities. Online social networks and social media sites allow numerous users to participate in collaboratively creating online information by producing new content and establishing new links between people, information, and services. Users participating in such online endeavours leave digital traces on the Web, which provides unparalleled research opportunities for studying questions in sociology, psychology, behavioral science, or political and economic science. While studying human digital traces have received attention from different communities, understanding human social behavior via non-invasive methods remains a challenging task and an open problem. Tackling these challenges requires the development of new methods, instruments and techniques as well as an interdisciplinary effort from researchers across disciplines such as computer science, humanities, social sciences and others. This workshop seeks original submissions on either methods or practices at the crossroads of these various disciplines.
+We invite original submissions addressing all aspects of social networks analysis and digital humanities. Online social networks and social media sites enable numerous users to collaboratively create online information by producing new content and by establishing new links between people, information, and services. At the same time, these user leave digital traces on the Web, which provide unparalleled research opportunities for studying questions in sociology, psychology, behavioral science, or political and economic science. While the study of human digital traces has attracted attention from different communities, understanding human social behavior via non-invasive methods remains a challenging task and an open problem. Tackling this challenge requires new methods, instruments and techniques as well as an interdisciplinary effort from researchers across disciplines such as computer science, humanities, social sciences and others. This workshop seeks original submissions on either methods or practices at the crossroads of these various disciplines.
 
 We invite submissions that may include the following topics, but are not limited to:
 
 ** Studies of online communities
-** Community of practice, online participation
+** Communities of practice, online participation
 ** Graph partitioning and community discovery
 ** Link prediction
 ** Location-aware social networks and mobility
@@ -39,6 +39,8 @@ We invite submissions that may include the following topics, but are not limited
 ** Crowdsourcing and social media
 ** Information diffusion in social networks
 ** Social influence
+** Opinion formation in social networks
+** Social bots and their role in shaping of public opinion
 ** Studies of human culture based on online social networks and encyclopedia, computational methods to assess human culture along different dimensions (such as language, food, music, literature etc.)
 ** Using social media to study psychological and social phenomena, and corresponding methods to assess such phenomena via web-based investigations
 ** Biases in social media, such as population biases, channel bias, self-selection bias, etc and computational methods for assessment and correction
@@ -67,8 +69,8 @@ and must contain novel contributions.
 
 Location:
 =========
-The workshop will take place at the Messe Congress Graz, Austria and will be held in conjunction with Iknow 2017. 
-Further information of this location can be found on the Iknow website: http://i-know.tugraz.at/.
+The workshop will take place at the Messe Congress Graz, Austria and will be held in conjunction with i-Know 2017. 
+Further information of this location can be found on the i-Know website: http://i-know.tugraz.at/.
 
 Contact:
 ========
